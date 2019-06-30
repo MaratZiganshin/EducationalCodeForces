@@ -1,0 +1,3 @@
+C:/GitHub/EducationalCodeForces/67/taskc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/GitHub/EducationalCodeForces/67/taskc/cmake-build-debug/CMakeFiles/taskc.dir
+C:/GitHub/EducationalCodeForces/67/taskc/cmake-build-debug/CMakeFiles/edit_cache.dir

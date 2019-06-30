@@ -1,0 +1,3 @@
+C:/GitHub/EducationalCodeForces/66/CatchOverfow/cmake-build-debug/CMakeFiles/CatchOverfow.dir
+C:/GitHub/EducationalCodeForces/66/CatchOverfow/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitHub/EducationalCodeForces/66/CatchOverfow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
