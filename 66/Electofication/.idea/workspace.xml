@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="CatchOverfow" targetName="CatchOverfow" />
+      <config projectName="Electofication" targetName="Electofication" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8ccd67f-4175-4158-981f-9c575f98fb13" name="Default Changelist" comment="" />
+    <list default="true" id="2388f8da-6b9a-43ee-9d3a-bec010a14f43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CatchOverfow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatchOverfow/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-214">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="206">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -40,11 +42,6 @@
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>int</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -73,7 +70,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -90,7 +86,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="CatchOverfow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CatchOverfow" TARGET_NAME="CatchOverfow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CatchOverfow" RUN_TARGET_NAME="CatchOverfow">
+    <configuration name="Electofication" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Electofication" TARGET_NAME="Electofication" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Electofication" RUN_TARGET_NAME="Electofication">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -101,19 +97,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8ccd67f-4175-4158-981f-9c575f98fb13" name="Default Changelist" comment="" />
-      <created>1561834008704</created>
+      <changelist id="2388f8da-6b9a-43ee-9d3a-bec010a14f43" name="Default Changelist" comment="" />
+      <created>1561991097488</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561834008704</updated>
-      <workItem from="1561834010185" duration="3969000" />
-      <workItem from="1561904277711" duration="141000" />
-      <workItem from="1561979680984" duration="2935000" />
+      <updated>1561991097488</updated>
+      <workItem from="1561991099247" duration="3660000" />
+      <workItem from="1562181203417" duration="372000" />
+      <workItem from="1562503472926" duration="88000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7045000" />
+    <option name="totallyTimeSpent" value="4120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
@@ -143,25 +139,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>11</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="206">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
